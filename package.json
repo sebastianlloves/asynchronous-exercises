@@ -1,6 +1,7 @@
 {
   "name": "asincronia-y-apis-js",
   "version": "1.0.0",
+  "type": "module",
   "description": "Ejercicios de Fundamentos de JavaScript - Asincronia y Llamadas a API's en JavaScript",
   "keywords": [
     "javascript",
